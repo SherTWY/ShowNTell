@@ -7,4 +7,4 @@ Show and tell project
 4. Create Applete in IFTTT such that if a new commit pushed in GitHub, then Send message to Channel ShowNTell Activity
 5. Test by committing and pushing new files
 
-![image](https://user-images.githubusercontent.com/85943406/204084737-8cce579c-65df-4aa3-8621-f695d4cfdf5e.png)
+![image](https://user-images.githubusercontent.com/85943406/204084807-5c6cba99-6269-4e55-8f02-5499ff824bfb.png)
